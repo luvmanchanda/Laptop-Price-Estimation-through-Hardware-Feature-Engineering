@@ -1,0 +1,2 @@
+# Laptop-Price-Estimation-through-Hardware-Feature-Engineering
+**Laptop Price Prediction | Machine Learning** Developed a regression model to predict laptop prices from 1,300+ configurations. Performed data cleaning and hardware-focused feature engineering, extracting RAM, CPU/GPU, storage and PPI features. Compared regression algorithms using R² and MAE, with XGBoost achieving strong predictive performance.
